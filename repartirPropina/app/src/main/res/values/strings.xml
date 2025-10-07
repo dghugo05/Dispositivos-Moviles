@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">repartirPropina</string>
+    <string name="app_name" >TipDivider</string>
+    <string name="Quantity">Quantity</string>
 </resources>
